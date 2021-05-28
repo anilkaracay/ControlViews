@@ -7,12 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0938AC12660D3AA0065A1A1 /* PopOverEx2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0938AC02660D3AA0065A1A1 /* PopOverEx2.swift */; };
+		D0938AC62660DB810065A1A1 /* CustomPopupEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0938AC52660DB810065A1A1 /* CustomPopupEx1.swift */; };
+		D0938ACB26610C470065A1A1 /* StatusBarEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0938ACA26610C470065A1A1 /* StatusBarEx1.swift */; };
 		D0E873CB2660BABC00295660 /* ControlViewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E873CA2660BABC00295660 /* ControlViewsApp.swift */; };
 		D0E873CD2660BABC00295660 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E873CC2660BABC00295660 /* ContentView.swift */; };
 		D0E873CF2660BABD00295660 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0E873CE2660BABD00295660 /* Assets.xcassets */; };
 		D0E873D22660BABD00295660 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0E873D12660BABD00295660 /* Preview Assets.xcassets */; };
 		D0E873DD2660BABD00295660 /* ControlViewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E873DC2660BABD00295660 /* ControlViewsTests.swift */; };
 		D0E873E82660BABE00295660 /* ControlViewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E873E72660BABE00295660 /* ControlViewsUITests.swift */; };
+		D0E873F92660BAF600295660 /* ActionSheetEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E873F82660BAF600295660 /* ActionSheetEx1.swift */; };
+		D0E873FE2660BB6000295660 /* ActionSheetEx2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E873FD2660BB6000295660 /* ActionSheetEx2.swift */; };
+		D0E874032660BB8800295660 /* AlertEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E874022660BB8800295660 /* AlertEx1.swift */; };
+		D0E874082660BBA000295660 /* AlertEx2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E874072660BBA000295660 /* AlertEx2.swift */; };
+		D0E874152660BBC900295660 /* AlertEx3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E874142660BBC900295660 /* AlertEx3.swift */; };
+		D0E8741A2660BBE100295660 /* AngGradientEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E874192660BBE100295660 /* AngGradientEx1.swift */; };
+		D0E8741F2660BBF900295660 /* AngGradientEx2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E8741E2660BBF900295660 /* AngGradientEx2.swift */; };
+		D0E874242660BC5800295660 /* ContextEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E874232660BC5800295660 /* ContextEx1.swift */; };
+		D0E874292660BC6E00295660 /* InsetEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E874282660BC6E00295660 /* InsetEx1.swift */; };
+		D0E8742E2660BC8600295660 /* SheetEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E8742D2660BC8600295660 /* SheetEx1.swift */; };
+		D0E874332660BC9B00295660 /* SheetEx2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E874322660BC9B00295660 /* SheetEx2.swift */; };
+		D0E874382660BCB800295660 /* PopOverEx1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E874372660BCB800295660 /* PopOverEx1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +48,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D0938AC02660D3AA0065A1A1 /* PopOverEx2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverEx2.swift; sourceTree = "<group>"; };
+		D0938AC52660DB810065A1A1 /* CustomPopupEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPopupEx1.swift; sourceTree = "<group>"; };
+		D0938ACA26610C470065A1A1 /* StatusBarEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusBarEx1.swift; sourceTree = "<group>"; };
 		D0E873C72660BABC00295660 /* ControlViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ControlViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0E873CA2660BABC00295660 /* ControlViewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlViewsApp.swift; sourceTree = "<group>"; };
 		D0E873CC2660BABC00295660 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +63,18 @@
 		D0E873E32660BABE00295660 /* ControlViewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ControlViewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0E873E72660BABE00295660 /* ControlViewsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlViewsUITests.swift; sourceTree = "<group>"; };
 		D0E873E92660BABE00295660 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0E873F82660BAF600295660 /* ActionSheetEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetEx1.swift; sourceTree = "<group>"; };
+		D0E873FD2660BB6000295660 /* ActionSheetEx2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetEx2.swift; sourceTree = "<group>"; };
+		D0E874022660BB8800295660 /* AlertEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertEx1.swift; sourceTree = "<group>"; };
+		D0E874072660BBA000295660 /* AlertEx2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertEx2.swift; sourceTree = "<group>"; };
+		D0E874142660BBC900295660 /* AlertEx3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertEx3.swift; sourceTree = "<group>"; };
+		D0E874192660BBE100295660 /* AngGradientEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngGradientEx1.swift; sourceTree = "<group>"; };
+		D0E8741E2660BBF900295660 /* AngGradientEx2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngGradientEx2.swift; sourceTree = "<group>"; };
+		D0E874232660BC5800295660 /* ContextEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextEx1.swift; sourceTree = "<group>"; };
+		D0E874282660BC6E00295660 /* InsetEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetEx1.swift; sourceTree = "<group>"; };
+		D0E8742D2660BC8600295660 /* SheetEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetEx1.swift; sourceTree = "<group>"; };
+		D0E874322660BC9B00295660 /* SheetEx2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetEx2.swift; sourceTree = "<group>"; };
+		D0E874372660BCB800295660 /* PopOverEx1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverEx1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +130,21 @@
 				D0E873CE2660BABD00295660 /* Assets.xcassets */,
 				D0E873D32660BABD00295660 /* Info.plist */,
 				D0E873D02660BABD00295660 /* Preview Content */,
+				D0E873F82660BAF600295660 /* ActionSheetEx1.swift */,
+				D0E873FD2660BB6000295660 /* ActionSheetEx2.swift */,
+				D0E874022660BB8800295660 /* AlertEx1.swift */,
+				D0E874072660BBA000295660 /* AlertEx2.swift */,
+				D0E874142660BBC900295660 /* AlertEx3.swift */,
+				D0E874192660BBE100295660 /* AngGradientEx1.swift */,
+				D0E8741E2660BBF900295660 /* AngGradientEx2.swift */,
+				D0E874232660BC5800295660 /* ContextEx1.swift */,
+				D0E874282660BC6E00295660 /* InsetEx1.swift */,
+				D0E8742D2660BC8600295660 /* SheetEx1.swift */,
+				D0E874322660BC9B00295660 /* SheetEx2.swift */,
+				D0E874372660BCB800295660 /* PopOverEx1.swift */,
+				D0938AC02660D3AA0065A1A1 /* PopOverEx2.swift */,
+				D0938AC52660DB810065A1A1 /* CustomPopupEx1.swift */,
+				D0938ACA26610C470065A1A1 /* StatusBarEx1.swift */,
 			);
 			path = ControlViews;
 			sourceTree = "<group>";
@@ -259,7 +304,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0E874242660BC5800295660 /* ContextEx1.swift in Sources */,
+				D0E874292660BC6E00295660 /* InsetEx1.swift in Sources */,
 				D0E873CD2660BABC00295660 /* ContentView.swift in Sources */,
+				D0938AC12660D3AA0065A1A1 /* PopOverEx2.swift in Sources */,
+				D0E8741A2660BBE100295660 /* AngGradientEx1.swift in Sources */,
+				D0E8742E2660BC8600295660 /* SheetEx1.swift in Sources */,
+				D0E873FE2660BB6000295660 /* ActionSheetEx2.swift in Sources */,
+				D0E874382660BCB800295660 /* PopOverEx1.swift in Sources */,
+				D0E874032660BB8800295660 /* AlertEx1.swift in Sources */,
+				D0938ACB26610C470065A1A1 /* StatusBarEx1.swift in Sources */,
+				D0E8741F2660BBF900295660 /* AngGradientEx2.swift in Sources */,
+				D0E873F92660BAF600295660 /* ActionSheetEx1.swift in Sources */,
+				D0E874082660BBA000295660 /* AlertEx2.swift in Sources */,
+				D0938AC62660DB810065A1A1 /* CustomPopupEx1.swift in Sources */,
+				D0E874152660BBC900295660 /* AlertEx3.swift in Sources */,
+				D0E874332660BC9B00295660 /* SheetEx2.swift in Sources */,
 				D0E873CB2660BABC00295660 /* ControlViewsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
